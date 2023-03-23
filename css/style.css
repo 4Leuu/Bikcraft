@@ -6,5 +6,6 @@
 @import './utilidades/cores.css';
 @import './bicicletas/bicicletas-lista.css';
 @import './home/tecnologia.css';
-@import './home/parceiros.css'
+@import './home/parceiros.css';
+@import './home/depoimento.css';
 
