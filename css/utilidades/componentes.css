@@ -16,6 +16,7 @@
   text-transform: uppercase;
   color: var(--p5);
   font: 600 1.125rem/1.35 'Poppins', sans-serif;
+  max-width: max-content;
 }
 
 .botao:hover{
@@ -46,4 +47,14 @@
 
 .link:hover{
   color: var(--c0);
+}
+
+.botao.secundario{
+  background: var(--c10);
+  color: var(--c2);
+}
+
+.botao.secundario:hover{
+  background: var(--c9);
+  color: var(--c2);
 }
