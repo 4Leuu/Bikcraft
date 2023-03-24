@@ -10,7 +10,8 @@ h4,
 h5,
 h6,
 p,
-blockquote{
+blockquote,
+dd{
   margin: 0px;
 }
 
@@ -33,4 +34,3 @@ img{
 img[src$=".jpg"]{
   border-radius: 4px;
 }
-
